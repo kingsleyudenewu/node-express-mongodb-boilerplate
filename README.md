@@ -1,1 +1,0 @@
-# node-express-mongodb-boilerplate

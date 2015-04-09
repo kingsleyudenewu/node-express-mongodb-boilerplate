@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "name"        : "node-express-mongodb-boilerplate",
+    "script"      : "app.js",
+    "env": {
+        "PORT": 3000,
+        "DEBUG": "*"
+    }
+  }]
+}
