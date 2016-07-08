@@ -9,23 +9,27 @@ node-express-mongodb-boilerplate is a web app boilerplate based on nodejs, expre
 ### Installation
 
 1) Install nodejs
+
 2) Install mongodb
+
 3) Install node-express-mongodb-boilerplate
-Git clone or download the source:
+
+Git clone or download the source, and
+
 ```sh
 $ cd node-express-mongodb-boilerplate
 $ npm install
 ```
-3) create data directory for mongodb:
+4) create data directory for mongodb:
 ```sh
 $ cd node-express-mongodb-boilerplate
 $ mkdir data
 ```
-3) start mongodb:
+5) start mongodb:
 ```sh
 $ mongod --dbpath data
 ```
-3) start express:
+6) start express:
 ```sh
 $ npm start
 ```
